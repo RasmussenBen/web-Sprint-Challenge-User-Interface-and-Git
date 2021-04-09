@@ -34,27 +34,37 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
+    Semantic HTML is the formatting we use to give meaning to the information on a website. While use of semantic tags will not dramatically alter the way that your website looks, they are very important for accessibility and Search Engine Optimization reasons.
+
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
+
+    Inline elements behave just as expected, they live in the pre-existing block and do not break to a new line. Block elements exist as hard breaks in the page and will separate themselves from other block elements.
 
 3. What are the 4 areas of the box model?
 
+    Margin, border, padding, content.
+
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
 
+    align-items: center; will default to the main axis as defined by flex-direction. Row is the default direction unless defined.
+
 5. Explain why git is valuable to a team of developers.
+
+    Git allows for large teams to work in parallel without stepping on each other's toes. It allows for change tracking and merging of features while providing an easy to follow trail for troubleshooting.
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
 ## Project Set Up
 
-- [ ] Create a forked copy of this project.
-- [ ] Clone your OWN version of the repository (Not Lambda's by mistake!).
-- [ ] Create a new branch: git checkout -b `<firstName-lastName>`.
-- [ ] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
-- [ ] Push commits: git push -u origin `<firstName-lastName>`.
+- [x] Create a forked copy of this project.
+- [x] Clone your OWN version of the repository (Not Lambda's by mistake!).
+- [x] Create a new branch: git checkout -b `<firstName-lastName>`.
+- [x] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
+- [x] Push commits: git push -u origin `<firstName-lastName>`.
  
 Follow these steps for completing your project.
 
-- [ ] Submit a Pull-Request to merge <firstName-lastName> Branch into master (student's  Repo). **Please don't merge your own pull request**
+- [x] Submit a Pull-Request to merge <firstName-lastName> Branch into master (student's  Repo). **Please don't merge your own pull request**
 
 
 
