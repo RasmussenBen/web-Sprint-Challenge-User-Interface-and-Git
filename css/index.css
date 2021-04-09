@@ -111,6 +111,14 @@ header nav {
     width: 48%;
     padding: 2% 1%;
 }
+.aboutHeaderBackground {
+    padding-bottom: 2%;
+}
+.top-content h2 {
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+}
 
 /* Middle Section */
 
@@ -183,11 +191,14 @@ header nav {
 .aboutUs h2 {
     padding-top: 2%;
 }
+.aboutUs p {
+    padding-bottom: 3%;
+}
 .aboutUs a {
     display:inline-block;
-    padding:1% 0;
-    border-radius:10px;
-    background-color: sandybrown;
+    padding:3% 5%;
+    border-radius:5px;
+    border: 2px solid black;
     text-align:center;
     text-decoration:none;
 }
