@@ -169,6 +169,23 @@ header nav {
     background-color: dodgerblue;
 }
 
+.middle-content .aboutUs {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.middle-content .aboutUs .aboutBox {
+    background-color: black;
+    width: 50%;
+    height: 100px;
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 /* Bottom Section */
 
 .bottom-content {
