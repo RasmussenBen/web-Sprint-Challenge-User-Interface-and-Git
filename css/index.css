@@ -176,14 +176,9 @@ header nav {
 }
 
 .middle-content .aboutUs .aboutBox {
-    background-color: black;
-    width: 50%;
-    height: 100px;
-    margin: 20px 2.5%;
-    color: white;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+    width: 45%;
+    border-bottom: 1px dashed black;
+    padding: 2% 0;
 }
 
 /* Bottom Section */
